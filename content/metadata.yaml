@@ -44,7 +44,7 @@ authors:
     affiliations:
       - Cornell University
     funders: 
-      - Innovation Lab for Crop Improvement Cornell, FFAR
+      - 'Innovation Lab for Crop Improvement Cornell, ILCI: 7200AA19LE00005, FFAR: CA20-SS-0000000103'
   - name: Michael Alaux
     initials: MA
     orcid: 0000-0001-9356-4072
@@ -144,7 +144,7 @@ authors:
     initials: KC
     github: keocorak
     orcid: 0000-0002-4129-3319
-    email: kecorak@ncsu.edu
+    email: keo.corak@usda.gov
     corresponding: false
     affiliations:
       - USDA-ARS Genomics and Bioinformatics Research Unit 
@@ -252,6 +252,7 @@ authors:
     github: jmh579
     orcid: 0000-0002-3147-6867
     email: jmhersh@clemson.edu
+    corresponding: false
     affiliations:
       - Clemson University
   - name: Puthick Hok
@@ -261,6 +262,14 @@ authors:
     corresponding: false
     affiliations:
       - Diversity Arrays Technology (DArT)
+  - name: Amanda M. Hulse-Kemp
+    initials: AMHK
+    github: ahulsekemp
+    orcid: 0000-0001-9670-9433
+    email: amanda.hulse-kemp@usda.gov
+    corresponding: false
+    affiliations:
+      - USDA-ARS Genomics and Bioinformatics Research Unit 
   - name: Lynn Carol Johnson
     initials: LCJ
     orcid: 0000-0001-8103-2722
@@ -284,7 +293,7 @@ authors:
     affiliations:
       - Royal Botanic Gardens, Kew
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Andrzej Kilian
     initials: AK
     email: zej@diversityarrays.com
@@ -300,7 +309,7 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Suman Kumar
     initials: SK
     github: sumankumar1
@@ -310,7 +319,7 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Josh Lamos-Sweeney
     initials: JDLS
     github: jlamossweeney
@@ -335,7 +344,7 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Marie-Angélique Laporte
     initials: MAL
     github: marieALaporte
@@ -526,7 +535,7 @@ authors:
     affiliations:
       - Royal Botanic Gardens, Kew
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Guilhem Sempéré
     initials: GS
     github: GuilhemSempere
@@ -604,7 +613,7 @@ authors:
     affiliations:
       - Leibniz Institute of Plant Genetics and Crop Plant Research
     funders: 
-      - The AGENT project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 862613.
+      - The AGENT project is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement no. 862613.
   - name: Shawn C. Yarnes
     initials: SCY 
     github: SCYarnes 
@@ -615,3 +624,8 @@ authors:
       - Breeding Insight, Cornell University 
     funders: 
       - U.S. Department of Agriculture, under agreement numbers [8062-21000-043-004-A, 8062-21000-052-002-A, and 8062-21000-052-003-A]
+  - name: The BrAPI Consortium
+    initials: TBC
+    corresponding: false
+    affiliations:
+      - The BrAPI Consortium
